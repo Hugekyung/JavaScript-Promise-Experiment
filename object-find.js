@@ -70,3 +70,6 @@ today = new Date();
 toUpdate = { ...toUpdate, date: today };
 
 console.log(toUpdate);
+
+const quizId = "62a163ddac4b496254c13da2";
+const resultObject = { quizId: true };
